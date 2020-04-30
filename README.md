@@ -1,3 +1,5 @@
+# Home Price Over Time Heatmap
+
 This was a weekend project I created that consisted of the following:
 * Building and populating my own real estate database with an automated script.
 * Displaying Houston home price change percentage on a heatmap.
@@ -8,12 +10,12 @@ The red locations on the map show areas that have the highest percent change in 
 
 This database and visual display will serve to help myself and other real estate investors make better data-driven decisions when investing in the Houston market.
 
-Technologies:
+### Technologies:
 - Python 3 Language
 - MySQL Database
 - TablePlus Database GUI
 
-Packages:
+### Packages:
 - SQLAlchemy
 - Selenium
 - Pandas
