@@ -14,10 +14,10 @@ This database and visual display will serve to help myself and other real estate
 - Python 3 Language
 - MySQL Database
 - TablePlus Database GUI
+- Google Maps API
 
 ### Packages:
 - SQLAlchemy
 - Selenium
 - Pandas
 - Jupyter Notebooks
-- Google Maps API
